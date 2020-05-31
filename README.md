@@ -10,3 +10,5 @@ Download all the files in the repository
 - Download [ChatterBot-corpus](https://github.com/gunthercox/ChatterBot)
 # Check ChatterBot repository
 https://github.com/gunthercox/ChatterBot
+# licence
+Don't copy without credits
